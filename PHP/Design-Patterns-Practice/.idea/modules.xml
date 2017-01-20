@@ -1,0 +1,36 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 2017/1/19
+ * Time: 10:56
+ */
+
+class CarService {
+
+    protected $cost;
+    public function getCost()
+    {
+        return $this->cost;
+    }
+
+    public function setCost()
+    {
+        $this->cost = $cost;
+    }
+
+    public function getDescription()
+    {
+        return 'Basic inspection';
+    }
+
+    public function withOilChange()
+    {
+        return $this->cost += 29;
+    }
+
+    public function withTireRotation()
+    {
+        return $this->cost += 15;
+    }
+}
