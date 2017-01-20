@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dfa1694-15ef-414b-ab8c-a6daa051cfe3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Laracasts-Practice.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/GitHub-Authentication-With-Laravel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/src/Sub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/src/TurkeySub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/src/VeggieSub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/autoload_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP/Design-Patterns-Practice/03 The Template Method Pattern/Turkey and Veggie Sub example/vendor/composer/installed.json" />
     </list>
     <ignored path="Laracasts-Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -246,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484884306032</updated>
-      <workItem from="1484884308089" duration="2631000" />
+      <workItem from="1484884308089" duration="2666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2631000" />
+    <option name="totallyTimeSpent" value="2666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1366" height="698" extended-state="6" />
