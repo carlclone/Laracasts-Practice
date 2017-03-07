@@ -7,3 +7,6 @@
  */
 
 // The example of this pattern https://github.com/laracasts/GitHub-Authentication-With-Laravel
+
+// can also use final keyword to not allow Subclass change it
+
